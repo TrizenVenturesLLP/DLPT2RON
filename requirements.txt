@@ -1,0 +1,12 @@
+opencv-python
+pyttsx3
+torch
+torchvision
+
+pyzbar
+qrcode
+transformers
+gtts
+gradio
+accelerate 
+playsound
