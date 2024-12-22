@@ -9,7 +9,10 @@
 
 https://github.com/doguhan2222/object-detection-system-for-the-visually-impaired/assets/63362475/552d1688-004c-4669-b4ce-d7487967fd59
 
-python --version =3.8.10
+
+
+add videos in 'src/videos' :  
+python --version = 3.10.7
 python -m venv venv
 Scripts activate :: venv/Scripts/activate
  pip install -r requirements.txt
