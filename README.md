@@ -11,7 +11,7 @@ https://github.com/doguhan2222/object-detection-system-for-the-visually-impaired
 
 
 
-add videos in 'src/videos' :  
+add videos in 'src/videos' :  https://drive.google.com/drive/folders/1ilAW5Z2jFA9NDy3FrWEbwRWAgzIDn6W9?usp=drive_link 
 python --version = 3.10.7
 python -m venv venv
 Scripts activate :: venv/Scripts/activate
